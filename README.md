@@ -1,16 +1,21 @@
-## Hi there 👋
+# Armando Netto
 
-<!--
-**armandonettox/armandonettox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Science undergraduate · Analytics Enthusiast**
 
-Here are some ideas to get you started:
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@armandonetto.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armandonettox/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+Graduando em Ciência de Dados e entusiasta do universo analítico, possuo sólida base em matemática e estatística aplicada aos negócios. Com foco no desenvolvimento de soluções inteligentes, utilizo SQL, Python e R para a extração e tratamento de grandes volumes de dados. 
+
+Domino as bibliotecas Pandas, NumPy, Matplotlib e Seaborn para análises profundas, além de aplicar Selenium na criação de automações eficientes. Sou movido pelo aprendizado contínuo, pela criação de modelos analíticos avançados e pela entrega de insights estratégicos para a tomada de decisão. 
+
+**Meus principais interesses técnicos incluem:**
+
+* **Data Science:** Análises estatísticas e manipulação de dados com Python e R.
+* **Automação:** Web scraping e automatização de processos com Selenium.
+* **Visualização:** Storytelling com dados utilizando bibliotecas gráficas (Matplotlib/Seaborn).
+* **Portfolio:** Projetos e evolução constante em [armandonetto.com](http://armandonetto.com).
