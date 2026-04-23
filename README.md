@@ -16,6 +16,6 @@ Domino as bibliotecas Pandas, NumPy, Matplotlib e Seaborn para análises profund
 **Meus principais interesses técnicos incluem:**
 
 * **Data Science:** Análises estatísticas e manipulação de dados com Python e R.
-* **Automação:** Web scraping e automatização de processos com Selenium.
+* **Automação:** Web scraping e automatização de processos com Python e com a biblioteca Selenium.
 * **Visualização:** Storytelling com dados utilizando bibliotecas gráficas (Matplotlib/Seaborn).
 * **Portfolio:** Projetos e evolução constante em [armandonetto.com](http://armandonetto.com).
