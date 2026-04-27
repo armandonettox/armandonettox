@@ -9,9 +9,10 @@
 
 ## Sobre mim:
 
-Graduando em Ciência de Dados e entusiasta do universo analítico, possuo sólida base em matemática e estatística aplicada aos negócios. Com foco no desenvolvimento de soluções inteligentes, utilizo SQL, Python e R para a extração e tratamento de grandes volumes de dados. 
+Graduando em Ciência de Dados e entusiasta do universo analítico, possuo sólida base em matemática. Sou um entusiasta da democratização de dados, priorizando o desenvolvimento de soluções de alto impacto através de ferramentas open-source e arquiteturas de baixo custo.
 
-Domino as bibliotecas Pandas, NumPy, Matplotlib e Seaborn para análises profundas, além de aplicar Selenium na criação de automações eficientes. Sou movido pelo aprendizado contínuo, pela criação de modelos analíticos avançados e pela entrega de insights estratégicos para a tomada de decisão. 
+Minha atuação combina o poder analítico de Python, R e SQL para arquitetar soluções que vão além do convencional. Seja explorando padrões com Pandas e Seaborn ou automatizando processos com Selenium, meu objetivo é um só: transformar dados em ativos estratégicos. Sou um defensor do uso de ferramentas de código aberto para democratizar a análise de dados, entregando resultados de impacto real com o menor custo operacional possível.
+
 
 **Meus principais interesses técnicos incluem:**
 
