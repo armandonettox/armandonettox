@@ -13,10 +13,3 @@ Sou graduando em Ciência de Dados e entusiasta do universo analítico, com uma 
 
 Minha atuação integra a capacidade analítica de Python, R e SQL para desenvolver soluções inovadoras. Meu objetivo é transformar dados em ativos estratégicos, seja explorando padrões ou automatizando processos. Defendo o uso de ferramentas de código aberto para democratizar a análise de dados, proporcionando resultados significativos com o mínimo de custo operacional.
 
-
-**Meus principais interesses técnicos incluem:**
-
-* **Data Science:** Análises estatísticas e manipulação de dados com Python e R.
-* **Automação:** Automatização de processos com Python.
-* **Visualização:** Storytelling com dados utilizando Python e R.
-* **Portfolio:** Projetos e evolução constante em [armandonetto.com](http://armandonetto.com).
