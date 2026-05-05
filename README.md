@@ -9,6 +9,6 @@
 
 ## Sobre mim:
 
-Sou graduando em Ciência de Dados com sólido embasamento matemático e foco no desenvolvimento de soluções de alto impacto por meio de ferramentas open source e arquiteturas de baixo custo.
+Sou graduando em Ciência de Dados com sólido conhecimento matemático e foco no desenvolvimento de soluções de alto impacto por meio de ferramentas open source e arquiteturas de baixo custo.
 
 Minha atuação baseia-se na aplicação técnica de Python, R e SQL para gerar inteligência de dados. Meu objetivo é transformar informação em ativos estratégicos, seja explorando padrões complexos ou automatizando processos. Defendo a democratização dos dados para proporcionar resultados significativos com máxima eficiência operacional
