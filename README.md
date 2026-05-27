@@ -11,15 +11,15 @@ Durante o dia, trabalho como Analista de Dados na Best Saúde, construindo anál
 
 ## No que eu foco
 
-**Analista de Dados** — Python, SQL, R, Power BI e Tableau — dashboards, indicadores e suporte à tomada de decisão.
+- **Analista de Dados** — Python, SQL, R, Power BI e Tableau — dashboards, indicadores e suporte à tomada de decisão.
 
-**Cientista de Dados** — Python, R e SQL — modelagem, análise estatística e machine learning.
+- **Cientista de Dados** — Python, R e SQL — modelagem, análise estatística e machine learning.
 
-**Analista de IA** — LLMs locais, agentes, RAG, automação assistida por IA e bots.
+- **Analista de IA** — LLMs locais, agentes, RAG, automação assistida por IA e bots.
 
-**Analista de Operações** — Python e automação de processos para reduzir tarefas manuais e organizar fluxos.
+- **Analista de Operações** — Python e automação de processos para reduzir tarefas manuais e organizar fluxos.
 
-**Analista de Negócios** — Python, SQL, Power BI e Tableau — leitura de indicadores e apoio à operação.o.
+- **Analista de Negócios** — Python, SQL, Power BI e Tableau — leitura de indicadores e apoio à operação.o.
 
 ## Atualmente trabalhando
 
