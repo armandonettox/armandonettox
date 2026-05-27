@@ -52,7 +52,6 @@ Grande parte do meu trabalho está em contexto interno, em projetos que ainda es
 
 ### IA / Automação
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Anthropic API](https://img.shields.io/badge/Anthropic_API-111111?style=for-the-badge&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-6E40C9?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-222222?style=for-the-badge&logo=github&logoColor=white)
 ![Hermes](https://img.shields.io/badge/Hermes-222222?style=for-the-badge&logo=python&logoColor=white)
