@@ -19,7 +19,7 @@ Durante o dia, trabalho como Analista de Dados na Best Saúde, construindo anál
 
 - **Analista de Operações** — Python e automação de processos para reduzir tarefas manuais e organizar fluxos.
 
-- **Analista de Negócios** — Python, SQL, Power BI e Tableau — leitura de indicadores e apoio à operação.o.
+- **Analista de Negócios** — Python, SQL, Power BI e Tableau — leitura de indicadores e apoio à operação.
 
 ## Atualmente trabalhando
 
