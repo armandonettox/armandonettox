@@ -24,7 +24,7 @@ Durante o dia, trabalho como Analista de Dados na Best Saúde, construindo anál
 ## Atualmente trabalhando
 
 - **Análise de dados na Best Saúde** — dashboards, indicadores, automação e suporte à tomada de decisão no contexto de operadora de saúde.
-- **Projetos pessoais** — **netto-bot**, um assistente pessoal multiagente no Telegram/WhatsApp com automação financeira, agenda, notícias e portal web.
+- **Projetos pessoais** — **Hera**, um assistente pessoal multiagente no Telegram/WhatsApp com automação financeira, agenda, notícias e portal web.
 
 ## Por que a maioria dos meus repositórios é privada
 
