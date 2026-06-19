@@ -24,11 +24,11 @@ Durante o dia, trabalho como Analista de Dados na Best Saúde, construindo anál
 ## Atualmente trabalhando
 
 - **Análise de dados na Best Saúde** — dashboards, indicadores, automação e suporte à tomada de decisão no contexto de operadora de saúde.
-- **Projetos pessoais** — **Hera**, um assistente pessoal  no Telegram/WhatsApp com automação de assuntos financeiros e agenda com portal web.
+- **Projetos pessoais** — **Hera**, uma assistente pessoal no Telegram/WhatsApp com automação de assuntos financeiros e organização com portal web.
 
 ## Por que a maioria dos meus repositórios é privada
 
-Grande parte do meu trabalho está em contexto interno, em projetos que ainda estão evoluindo ou em soluções que não faz sentido publicar agora. Hoje, meu foco principal é o **netto-bot**, que venho desenvolvendo nos meus horários livres. Também já tenho outros projetos planejados para publicar com Python, R e SQL, e quero abrir mais repositórios públicos na área de Dados ao longo do tempo. Mesmo assim, estou sempre aberto a conversar sobre o que venho construindo e sobre as stacks que utilizo.
+Grande parte do meu trabalho está em contexto interno, em projetos que ainda estão evoluindo ou em soluções que não faz sentido publicar agora. Hoje, meu foco principal é a **Hera**, que venho desenvolvendo nos meus horários livres. Também já tenho outros projetos planejados para publicar com Python, R e SQL, e quero abrir mais repositórios públicos na área de Dados ao longo do tempo. Mesmo assim, estou sempre aberto a conversar sobre o que venho construindo e sobre as stacks que utilizo.
 
 ## Stacks que já utilizei e nas quais tenho domínio
 
