@@ -15,11 +15,7 @@ Durante o dia, trabalho como Analista de Dados na Best Saúde, construindo anál
 
 - **Cientista de Dados** — Python, R e SQL — modelagem, análise estatística e machine learning.
 
-- **Analista de IA** — LLMs locais, agentes, RAG, automação assistida por IA e bots.
-
-- **Analista de Operações** — Python e automação de processos para reduzir tarefas manuais e organizar fluxos.
-
-- **Analista de Negócios** — Python, SQL, Power BI e Tableau — leitura de indicadores e apoio à operação.
+- **Engenheiro de IA** — LLMs locais, agentes, RAG, automação assistida por IA e bots.
 
 ## Atualmente trabalhando
 
