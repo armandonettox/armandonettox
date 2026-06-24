@@ -15,7 +15,7 @@ Durante o dia, trabalho como Analista de Dados na Best Saúde, construindo anál
 
 - **Cientista de Dados** — Python, R e SQL — modelagem, análise estatística e machine learning.
 
-- **Engenheiro de IA** — LLMs locais, agentes, RAG, automação assistida por IA e bots.
+- **Engenheiro de IA** — Machine Learning, LLMs locais, agentes, RAG, automação assistida por IA e bots.
 
 ## Atualmente trabalhando
 
